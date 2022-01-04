@@ -1,0 +1,788 @@
+
+{"playlists":[{"name": "Liked Songs",
+  "items": [
+  {
+    "id": "7f46b3e2-a907-4f96-b90b-f7b7381924b0",
+    "title": "Sorry",
+    "artist": "Comfort Fit",
+    "album": "Forget And Remember",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "9b0fc959-8889-4628-8181-f420de67649a",
+    "title": "jazz club",
+    "artist": "kriss",
+    "album": "kriss - no.mad e.p.",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "c3ba8c45-b97d-43ac-a172-ccb683c6b573",
+    "title": "Stereo-vision radio",
+    "artist": "Monopole",
+    "album": "Silent movie surround sound",
+    "year": 2009,
+    "track": 2
+  },
+  {
+    "id": "a91967c5-76e2-47fa-af69-db28d6aae1e5",
+    "title": "Trail",
+    "artist": "Nobara Hayakawa",
+    "album": "Trail EP",
+    "year": 1995,
+    "track": 1
+  },
+  {
+    "id": "8c2ea8a6-7039-42cb-a070-bdaf4fac0559",
+    "title": "Swan Song",
+    "artist": "Paper Navy",
+    "album": "all grown up",
+    "year": 2009,
+    "track": 8
+  },
+  {
+    "id": "0ade45e3-b03d-4787-b2cf-019c888287f7",
+    "title": "Bust This Bust That",
+    "artist": "Professor Kliq",
+    "album": "Community Service",
+    "year": 2009,
+    "track": 3
+  },
+  {
+    "id": "07be521c-f66b-47cb-94f3-813106b273bf",
+    "title": "These Days",
+    "artist": "Robin Grey",
+    "album": "Only The Missile",
+    "year": 2008,
+    "track": 1
+  },
+  {
+    "id": "015e3ada-ff10-425b-96c5-1d53466fabf5",
+    "title": "Falling For You (Piano Version)",
+    "artist": "Sean Fournier",
+    "album": "Oh My",
+    "year": 2008,
+    "track": 6
+  },
+  {
+    "id": "4f38699d-64f6-4b98-b081-3c11019c1754",
+    "title": "While She Sleeps (Morning Edit)",
+    "artist": "The Lights Galaxia",
+    "album": "Global EP",
+    "year": 2009,
+    "track": 2
+  },
+  {
+    "id": "88f45ecf-5a6d-44b9-91af-eefff3976f20",
+    "title": "Islamatronic cantilliation",
+    "artist": "The Orientalist",
+    "album": "1000 Sounds Lotus",
+    "year": 2006,
+    "track": 6
+  },
+  {
+    "id": "584e74f7-733c-498d-b24c-eb342d2a904b",
+    "title": "poor economic policies",
+    "artist": "adcBicycle",
+    "album": "EP",
+    "year": 2006,
+    "track": 2
+  },
+  {
+    "id": "ede68435-5a68-42b6-b8f3-075fc5ea55df",
+    "title": "Eigenvalue Subspace Decomposition",
+    "artist": "Choc",
+    "album": "Sound Object Deconditioning",
+    "year": 2009,
+    "track": 1
+  },
+  {
+    "id": "b59397a2-be1b-47e9-bb4c-a969cd5ccee9",
+    "title": "run!",
+    "artist": "Entertainment for the Braindead",
+    "album": "Hydrophobia",
+    "year": 1995,
+    "track": 4
+  },
+  {
+    "id": "7aa83ee6-b7da-43de-b3bb-57e38ec774b5",
+    "title": "Walkampfchampagne",
+    "artist": "Erdbeerschnitzel",
+    "album": "Pathetik Party",
+    "year": 1995,
+    "track": 1
+  },
+  {
+    "id": "abd655e4-0de8-4fbb-9107-96d2e265e5f6",
+    "title": "Length and Brecht /Synaecide Remix/",
+    "artist": "Halogen",
+    "album": "Length and Brecht /Remixed/",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "b493bc32-887e-422e-8777-b5ac3eb0a927",
+    "title": "Shanghai Reggae (DJ Side's Alternate Take)",
+    "artist": "Karaoke Mouse",
+    "album": "Shanghai Reggae",
+    "year": 1995,
+    "track": 4
+  },
+  {
+    "id": "a03ac6b5-6759-4b83-8b49-968cc19e84a8",
+    "title": "Mircoobee",
+    "artist": "Keinzweiter",
+    "album": "M",
+    "year": 1995,
+    "track": 1
+  },
+  {
+    "id": "2b894c1f-984a-468d-b70d-1bb7ee6d0f58",
+    "title": "Sommerdellen",
+    "artist": "krill.minima",
+    "album": "Urlaub Auf Balkonien",
+    "year": 2007,
+    "track": 1
+  },
+  {
+    "id": "ac264ef8-d73a-46d8-976e-9e5019821255",
+    "title": "Total Breakdown",
+    "artist": "Brad Sucks",
+    "album": "Out of It",
+    "year": 2008,
+    "track": 7
+  },
+  {
+    "id": "65c71a1d-efaf-4fd9-afe1-f05d5619efd1",
+    "title": "I Want To Destroy Something Beautiful",
+    "artist": "Josh Woodward",
+    "album": "Dirty Wings",
+    "year": 1995,
+    "track": 1
+  }
+  ]
+},
+{
+  "name": "MusicForStudying",
+  "items": [
+{
+  
+    "id": "7f46b3e2-a907-4f96-b90b-f7b7381924b0",
+    "title": "Sorry",
+    "artist": "Comfort Fit",
+    "album": "Forget And Remember",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "9b0fc959-8889-4628-8181-f420de67649a",
+    "title": "jazz club",
+    "artist": "kriss",
+    "album": "kriss - no.mad e.p.",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "c3ba8c45-b97d-43ac-a172-ccb683c6b573",
+    "title": "Stereo-vision radio",
+    "artist": "Monopole",
+    "album": "Silent movie surround sound",
+    "year": 2009,
+    "track": 2
+  },
+  {
+    "id": "a91967c5-76e2-47fa-af69-db28d6aae1e5",
+    "title": "Trail",
+    "artist": "Nobara Hayakawa",
+    "album": "Trail EP",
+    "year": 1995,
+    "track": 1
+  },
+  {
+    "id": "8c2ea8a6-7039-42cb-a070-bdaf4fac0559",
+    "title": "Swan Song",
+    "artist": "Paper Navy",
+    "album": "all grown up",
+    "year": 2009,
+    "track": 8
+  },
+  {
+    "id": "0ade45e3-b03d-4787-b2cf-019c888287f7",
+    "title": "Bust This Bust That",
+    "artist": "Professor Kliq",
+    "album": "Community Service",
+    "year": 2009,
+    "track": 3
+  },
+  {
+    "id": "07be521c-f66b-47cb-94f3-813106b273bf",
+    "title": "These Days",
+    "artist": "Robin Grey",
+    "album": "Only The Missile",
+    "year": 2008,
+    "track": 1
+  },
+  {
+    "id": "015e3ada-ff10-425b-96c5-1d53466fabf5",
+    "title": "Falling For You (Piano Version)",
+    "artist": "Sean Fournier",
+    "album": "Oh My",
+    "year": 2008,
+    "track": 6
+  },
+  {
+    "id": "4f38699d-64f6-4b98-b081-3c11019c1754",
+    "title": "While She Sleeps (Morning Edit)",
+    "artist": "The Lights Galaxia",
+    "album": "Global EP",
+    "year": 2009,
+    "track": 2
+  },
+  {
+    "id": "88f45ecf-5a6d-44b9-91af-eefff3976f20",
+    "title": "Islamatronic cantilliation",
+    "artist": "The Orientalist",
+    "album": "1000 Sounds Lotus",
+    "year": 2006,
+    "track": 6
+  },
+  {
+    "id": "584e74f7-733c-498d-b24c-eb342d2a904b",
+    "title": "poor economic policies",
+    "artist": "adcBicycle",
+    "album": "EP",
+    "year": 2006,
+    "track": 2
+  },
+  {
+    "id": "ede68435-5a68-42b6-b8f3-075fc5ea55df",
+    "title": "Eigenvalue Subspace Decomposition",
+    "artist": "Choc",
+    "album": "Sound Object Deconditioning",
+    "year": 2009,
+    "track": 1
+  },
+  {
+    "id": "b59397a2-be1b-47e9-bb4c-a969cd5ccee9",
+    "title": "run!",
+    "artist": "Entertainment for the Braindead",
+    "album": "Hydrophobia",
+    "year": 1995,
+    "track": 4
+  },
+  {
+    "id": "7aa83ee6-b7da-43de-b3bb-57e38ec774b5",
+    "title": "Walkampfchampagne",
+    "artist": "Erdbeerschnitzel",
+    "album": "Pathetik Party",
+    "year": 1995,
+    "track": 1
+  },
+  {
+    "id": "abd655e4-0de8-4fbb-9107-96d2e265e5f6",
+    "title": "Length and Brecht /Synaecide Remix/",
+    "artist": "Halogen",
+    "album": "Length and Brecht /Remixed/",
+    "year": 1995,
+    "track": 3
+  }
+  
+  ]
+},
+{
+  "name": "Ambient",
+  "items": [
+    {
+    "id": "7f46b3e2-a907-4f96-b90b-f7b7381924b0",
+    "title": "Sorry",
+    "artist": "Comfort Fit",
+    "album": "Forget And Remember",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "9b0fc959-8889-4628-8181-f420de67649a",
+    "title": "jazz club",
+    "artist": "kriss",
+    "album": "kriss - no.mad e.p.",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "c3ba8c45-b97d-43ac-a172-ccb683c6b573",
+    "title": "Stereo-vision radio",
+    "artist": "Monopole",
+    "album": "Silent movie surround sound",
+    "year": 2009,
+    "track": 2
+  }
+
+  ]
+  
+},
+{
+  "name": "Chill",
+  "items": [{
+    "id": "015e3ada-ff10-425b-96c5-1d53466fabf5",
+    "title": "Falling For You (Piano Version)",
+    "artist": "Sean Fournier",
+    "album": "Oh My",
+    "year": 2008,
+    "track": 6
+  },
+  {
+    "id": "4f38699d-64f6-4b98-b081-3c11019c1754",
+    "title": "While She Sleeps (Morning Edit)",
+    "artist": "The Lights Galaxia",
+    "album": "Global EP",
+    "year": 2009,
+    "track": 2
+  },
+  {
+    "id": "88f45ecf-5a6d-44b9-91af-eefff3976f20",
+    "title": "Islamatronic cantilliation",
+    "artist": "The Orientalist",
+    "album": "1000 Sounds Lotus",
+    "year": 2006,
+    "track": 6
+  },
+  {
+    "id": "584e74f7-733c-498d-b24c-eb342d2a904b",
+    "title": "poor economic policies",
+    "artist": "adcBicycle",
+    "album": "EP",
+    "year": 2006,
+    "track": 2
+  }
+]
+},
+{
+  "name": "Soundtracks",
+  "items": [
+    {
+      "id": "07be521c-f66b-47cb-94f3-813106b273bf",
+      "title": "These Days",
+      "artist": "Robin Grey",
+      "album": "Only The Missile",
+      "year": 2008,
+      "track": 1
+    },
+    {
+      "id": "015e3ada-ff10-425b-96c5-1d53466fabf5",
+      "title": "Falling For You (Piano Version)",
+      "artist": "Sean Fournier",
+      "album": "Oh My",
+      "year": 2008,
+      "track": 6
+    },
+    {
+      "id": "4f38699d-64f6-4b98-b081-3c11019c1754",
+      "title": "While She Sleeps (Morning Edit)",
+      "artist": "The Lights Galaxia",
+      "album": "Global EP",
+      "year": 2009,
+      "track": 2
+    },
+    {
+      "id": "88f45ecf-5a6d-44b9-91af-eefff3976f20",
+      "title": "Islamatronic cantilliation",
+      "artist": "The Orientalist",
+      "album": "1000 Sounds Lotus",
+      "year": 2006,
+      "track": 6
+    },
+    {
+      "id": "584e74f7-733c-498d-b24c-eb342d2a904b",
+      "title": "poor economic policies",
+      "artist": "adcBicycle",
+      "album": "EP",
+      "year": 2006,
+      "track": 2
+    },
+    {
+      "id": "ede68435-5a68-42b6-b8f3-075fc5ea55df",
+      "title": "Eigenvalue Subspace Decomposition",
+      "artist": "Choc",
+      "album": "Sound Object Deconditioning",
+      "year": 2009,
+      "track": 1
+    },
+    {
+      "id": "b59397a2-be1b-47e9-bb4c-a969cd5ccee9",
+      "title": "run!",
+      "artist": "Entertainment for the Braindead",
+      "album": "Hydrophobia",
+      "year": 1995,
+      "track": 4
+    },
+    {
+      "id": "7aa83ee6-b7da-43de-b3bb-57e38ec774b5",
+      "title": "Walkampfchampagne",
+      "artist": "Erdbeerschnitzel",
+      "album": "Pathetik Party",
+      "year": 1995,
+      "track": 1
+    }
+
+  ]
+  
+},
+{
+  "name": "Another Time",
+  "items": [
+    {
+    "id": "7f46b3e2-a907-4f96-b90b-f7b7381924b0",
+    "title": "Sorry",
+    "artist": "Comfort Fit",
+    "album": "Forget And Remember",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "07be521c-f66b-47cb-94f3-813106b273bf",
+    "title": "These Days",
+    "artist": "Robin Grey",
+    "album": "Only The Missile",
+    "year": 2008,
+    "track": 1
+  },
+  {
+    "id": "015e3ada-ff10-425b-96c5-1d53466fabf5",
+    "title": "Falling For You (Piano Version)",
+    "artist": "Sean Fournier",
+    "album": "Oh My",
+    "year": 2008,
+    "track": 6
+  },
+  {
+    "id": "4f38699d-64f6-4b98-b081-3c11019c1754",
+    "title": "While She Sleeps (Morning Edit)",
+    "artist": "The Lights Galaxia",
+    "album": "Global EP",
+    "year": 2009,
+    "track": 2
+  },
+  {
+    "id": "88f45ecf-5a6d-44b9-91af-eefff3976f20",
+    "title": "Islamatronic cantilliation",
+    "artist": "The Orientalist",
+    "album": "1000 Sounds Lotus",
+    "year": 2006,
+    "track": 6
+  },
+  {
+    "id": "584e74f7-733c-498d-b24c-eb342d2a904b",
+    "title": "poor economic policies",
+    "artist": "adcBicycle",
+    "album": "EP",
+    "year": 2006,
+    "track": 2
+  },
+  {
+    "id": "ede68435-5a68-42b6-b8f3-075fc5ea55df",
+    "title": "Eigenvalue Subspace Decomposition",
+    "artist": "Choc",
+    "album": "Sound Object Deconditioning",
+    "year": 2009,
+    "track": 1
+  },
+  {
+    "id": "b59397a2-be1b-47e9-bb4c-a969cd5ccee9",
+    "title": "run!",
+    "artist": "Entertainment for the Braindead",
+    "album": "Hydrophobia",
+    "year": 1995,
+    "track": 4
+  },
+  {
+    "id": "7aa83ee6-b7da-43de-b3bb-57e38ec774b5",
+    "title": "Walkampfchampagne",
+    "artist": "Erdbeerschnitzel",
+    "album": "Pathetik Party",
+    "year": 1995,
+    "track": 1
+  },
+  {
+    "id": "9b0fc959-8889-4628-8181-f420de67649a",
+    "title": "jazz club",
+    "artist": "kriss",
+    "album": "kriss - no.mad e.p.",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "c3ba8c45-b97d-43ac-a172-ccb683c6b573",
+    "title": "Stereo-vision radio",
+    "artist": "Monopole",
+    "album": "Silent movie surround sound",
+    "year": 2009,
+    "track": 2
+  }
+
+  ]
+  
+},{
+  "name": "Sunshine",
+  "items": [
+    {
+      "id": "584e74f7-733c-498d-b24c-eb342d2a904b",
+      "title": "poor economic policies",
+      "artist": "adcBicycle",
+      "album": "EP",
+      "year": 2006,
+      "track": 2
+    },
+    {
+      "id": "ede68435-5a68-42b6-b8f3-075fc5ea55df",
+      "title": "Eigenvalue Subspace Decomposition",
+      "artist": "Choc",
+      "album": "Sound Object Deconditioning",
+      "year": 2009,
+      "track": 1
+    },
+    {
+      "id": "b59397a2-be1b-47e9-bb4c-a969cd5ccee9",
+      "title": "run!",
+      "artist": "Entertainment for the Braindead",
+      "album": "Hydrophobia",
+      "year": 1995,
+      "track": 4
+    },
+    {
+      "id": "7aa83ee6-b7da-43de-b3bb-57e38ec774b5",
+      "title": "Walkampfchampagne",
+      "artist": "Erdbeerschnitzel",
+      "album": "Pathetik Party",
+      "year": 1995,
+      "track": 1
+    },
+    {
+      "id": "abd655e4-0de8-4fbb-9107-96d2e265e5f6",
+      "title": "Length and Brecht /Synaecide Remix/",
+      "artist": "Halogen",
+      "album": "Length and Brecht /Remixed/",
+      "year": 1995,
+      "track": 3
+    },
+    {
+      "id": "b493bc32-887e-422e-8777-b5ac3eb0a927",
+      "title": "Shanghai Reggae (DJ Side's Alternate Take)",
+      "artist": "Karaoke Mouse",
+      "album": "Shanghai Reggae",
+      "year": 1995,
+      "track": 4
+    },
+    {
+      "id": "a03ac6b5-6759-4b83-8b49-968cc19e84a8",
+      "title": "Mircoobee",
+      "artist": "Keinzweiter",
+      "album": "M",
+      "year": 1995,
+      "track": 1
+    }
+
+  ]
+  
+},{
+  "name": "LETS GO",
+  "items": [
+    {
+      "id": "b59397a2-be1b-47e9-bb4c-a969cd5ccee9",
+      "title": "run!",
+      "artist": "Entertainment for the Braindead",
+      "album": "Hydrophobia",
+      "year": 1995,
+      "track": 4
+    },
+    {
+      "id": "7aa83ee6-b7da-43de-b3bb-57e38ec774b5",
+      "title": "Walkampfchampagne",
+      "artist": "Erdbeerschnitzel",
+      "album": "Pathetik Party",
+      "year": 1995,
+      "track": 1
+    },
+    {
+      "id": "abd655e4-0de8-4fbb-9107-96d2e265e5f6",
+      "title": "Length and Brecht /Synaecide Remix/",
+      "artist": "Halogen",
+      "album": "Length and Brecht /Remixed/",
+      "year": 1995,
+      "track": 3
+    },
+    {
+      "id": "b493bc32-887e-422e-8777-b5ac3eb0a927",
+      "title": "Shanghai Reggae (DJ Side's Alternate Take)",
+      "artist": "Karaoke Mouse",
+      "album": "Shanghai Reggae",
+      "year": 1995,
+      "track": 4
+    },
+    {
+      "id": "a03ac6b5-6759-4b83-8b49-968cc19e84a8",
+      "title": "Mircoobee",
+      "artist": "Keinzweiter",
+      "album": "M",
+      "year": 1995,
+      "track": 1
+    },
+    {
+    "id": "7f46b3e2-a907-4f96-b90b-f7b7381924b0",
+    "title": "Sorry",
+    "artist": "Comfort Fit",
+    "album": "Forget And Remember",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "9b0fc959-8889-4628-8181-f420de67649a",
+    "title": "jazz club",
+    "artist": "kriss",
+    "album": "kriss - no.mad e.p.",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "c3ba8c45-b97d-43ac-a172-ccb683c6b573",
+    "title": "Stereo-vision radio",
+    "artist": "Monopole",
+    "album": "Silent movie surround sound",
+    "year": 2009,
+    "track": 2
+  }
+
+  ]
+  
+},{
+  "name": "WOOP",
+  "items": [
+    {
+    "id": "7f46b3e2-a907-4f96-b90b-f7b7381924b0",
+    "title": "Sorry",
+    "artist": "Comfort Fit",
+    "album": "Forget And Remember",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "9b0fc959-8889-4628-8181-f420de67649a",
+    "title": "jazz club",
+    "artist": "kriss",
+    "album": "kriss - no.mad e.p.",
+    "year": 1995,
+    "track": 3
+  },{
+    "id": "b59397a2-be1b-47e9-bb4c-a969cd5ccee9",
+    "title": "run!",
+    "artist": "Entertainment for the Braindead",
+    "album": "Hydrophobia",
+    "year": 1995,
+    "track": 4
+  },
+  {
+    "id": "7aa83ee6-b7da-43de-b3bb-57e38ec774b5",
+    "title": "Walkampfchampagne",
+    "artist": "Erdbeerschnitzel",
+    "album": "Pathetik Party",
+    "year": 1995,
+    "track": 1
+  },
+  {
+    "id": "abd655e4-0de8-4fbb-9107-96d2e265e5f6",
+    "title": "Length and Brecht /Synaecide Remix/",
+    "artist": "Halogen",
+    "album": "Length and Brecht /Remixed/",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "b493bc32-887e-422e-8777-b5ac3eb0a927",
+    "title": "Shanghai Reggae (DJ Side's Alternate Take)",
+    "artist": "Karaoke Mouse",
+    "album": "Shanghai Reggae",
+    "year": 1995,
+    "track": 4
+  },
+  {
+    "id": "a03ac6b5-6759-4b83-8b49-968cc19e84a8",
+    "title": "Mircoobee",
+    "artist": "Keinzweiter",
+    "album": "M",
+    "year": 1995,
+    "track": 1
+  },
+  {
+    "id": "c3ba8c45-b97d-43ac-a172-ccb683c6b573",
+    "title": "Stereo-vision radio",
+    "artist": "Monopole",
+    "album": "Silent movie surround sound",
+    "year": 2009,
+    "track": 2
+  }
+
+  ]
+  
+},{
+  "name": "Electronic",
+  "items": [
+    {
+    "id": "7f46b3e2-a907-4f96-b90b-f7b7381924b0",
+    "title": "Sorry",
+    "artist": "Comfort Fit",
+    "album": "Forget And Remember",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "9b0fc959-8889-4628-8181-f420de67649a",
+    "title": "jazz club",
+    "artist": "kriss",
+    "album": "kriss - no.mad e.p.",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "c3ba8c45-b97d-43ac-a172-ccb683c6b573",
+    "title": "Stereo-vision radio",
+    "artist": "Monopole",
+    "album": "Silent movie surround sound",
+    "year": 2009,
+    "track": 2
+  }
+
+  ]
+  
+},{
+  "name": "New Years",
+  "items": [
+    {
+    "id": "7f46b3e2-a907-4f96-b90b-f7b7381924b0",
+    "title": "Sorry",
+    "artist": "Comfort Fit",
+    "album": "Forget And Remember",
+    "year": 1995,
+    "track": 3
+  },
+  {
+    "id": "9b0fc959-8889-4628-8181-f420de67649a",
+    "title": "jazz club",
+    "artist": "kriss",
+    "album": "kriss - no.mad e.p.",
+    "year": 1995,
+    "track": 3
+  }
+
+  ]
+  
+}
+  
+]
+}
+  
+
+
+
+
+
+

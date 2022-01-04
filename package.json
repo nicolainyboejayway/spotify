@@ -1,0 +1,56 @@
+{
+  "name": "my-app",
+  "version": "0.11.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.2.4",
+    "@rhnorskov/jolly-roger": "^1.0.6",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "@types/jest": "^26.0.24",
+    "@types/node": "^12.20.37",
+    "@types/react": "^17.0.37",
+    "@types/react-dom": "^17.0.11",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-howler": "^5.2.0",
+    "react-scripts": "^3.4.4",
+    "react-sticky": "^6.0.3",
+    "styled-components": "^5.3.3",
+    "typescript": "^4.5.2",
+    "web-vitals": "^1.1.2",
+    "yarn": "^1.22.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/howler": "^2.2.4",
+    "@types/react-sticky": "^6.0.4",
+    "@types/styled-components": "^5.1.17"
+  }
+}

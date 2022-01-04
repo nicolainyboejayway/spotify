@@ -1,0 +1,24 @@
+#trackImage{
+    width:3.2rem;
+}
+
+#trackTitle{
+    font-size: 1rem;
+    padding-left: 1rem;
+    justify-content: left;
+}
+
+#trackArtist{
+    position:relative;
+    font-size: 0.8rem;
+    color:grey;
+    
+    justify-content: left;
+}
+
+#trackTitle:hover{
+    text-decoration-line: underline;
+}
+#trackArtist:hover{
+    text-decoration-line: underline;
+}
